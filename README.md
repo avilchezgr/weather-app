@@ -1,3 +1,9 @@
+## Weather App made in React
+
+In this project weather data is fetched from a weather API and display on the screen.
+
+![](weather-app.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
